@@ -1,0 +1,4 @@
+tic
+arginitial();
+genemain();
+toc
